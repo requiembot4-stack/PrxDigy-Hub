@@ -7,7 +7,7 @@ local ALLOWED_USER_IDS = {
     [5198136088] = true,
     [8619380916] = true,
     [5525930098] = true,
-    [242352065] = true,
+    [8073298991] = true,
 }
 
 local Players = game:GetService("Players")
